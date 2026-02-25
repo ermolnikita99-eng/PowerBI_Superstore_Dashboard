@@ -15,7 +15,7 @@
 ## Скриншоты
 ![Общий вид дашборда](https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/main/1.png%20—%20общий%20вид%20страницы.png)
 ![KPI-карточки](https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/main/2.png%20—%20карточки%20крупно.png)
-![График и карта](https://github.com/ermolnikitka-eng/PowerBI_Superstore_Dashboard/raw/main/3.png)
+![График и карта](https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/main/3.png%20—%20график%20%2B%20карта.png)
 ![Топ-продукты](https://github.com/ermolnikitka-eng/PowerBI_Superstore_Dashboard/raw/main/4.png)
 
 ## Как открыть дашборд
