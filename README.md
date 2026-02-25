@@ -14,7 +14,7 @@
 
 ## Скриншоты
 ![[Общий вид дашборда][(https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/453a96790d7e972d36da79071c5fb9baa14eb87a/1.png%20%E2%80%94%20%D0%BE%D0%B1%D1%89%D0%B8%D0%B9%20%D0%B2%D0%B8%D0%B4%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B.png)](1.png)](https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/main/1.png%20—%20общий%20вид%20страницы.png?raw=true)
-![KPI-карточки](2.png)
+![KPI-карточки][(2.png)](https://github.com/ermolnikita99-eng/PowerBI_Superstore_Dashboard/blob/main/2.png%20—%20карточки%20крупно.png?raw=true)
 ![График и карта](3.png)
 ![Топ-продукты](4.png)
 
